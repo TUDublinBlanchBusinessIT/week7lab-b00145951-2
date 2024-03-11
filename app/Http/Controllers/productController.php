@@ -157,4 +157,5 @@ class productController extends AppBaseController
 
         return redirect(route('products.index'));
     }
+    
 }

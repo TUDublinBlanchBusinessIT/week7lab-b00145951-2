@@ -28,3 +28,5 @@ Route::resource('scorders', App\Http\Controllers\scorderController::class);
 
 
 Route::resource('orderdetails', App\Http\Controllers\orderdetailController::class);
+
+//Route::resource('products', 'productController');
